@@ -7,4 +7,4 @@ I’m also familiar with 🐧 Linux, Shell, NodeJS, 🐳 Docker, and 👴 Jenkin
 
 Now, I'm on the exciting journey of becoming a 🧌 **Full Stack Developer**.
 
-You can find me on [my page](https://www.xiazhiri.com/) and [Twitter](https://twitter.com/likacix) and my dog at 📸 [Instagram](https://www.instagram.com/kissmosh/).
+You can find me on [Xiazhiri](https://www.xiazhiri.com/), [Blog(CN)](https://blog.xiazhiri.com), [Twitter](https://twitter.com/likacix) and my dog at 📸 [Instagram](https://www.instagram.com/kissmosh/).
